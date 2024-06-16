@@ -12,6 +12,8 @@ Bu repo içinde çeşitli konularda yazılar bulunmaktadır. İlgili yazılara �
 
 - [Honeypot-Avlarken Avlanmak](Yazilar/Honeypot.md): Honeypot teknolojisinin temel prensipleri ve kullanım alanları hakkında bilgi edinin.
 
+- [EDR Nedir?](Yazilar/edr.md): EDR teknolojisi ve mimarisi hakkında temel bilgi
+
 ## Notlar
 
 Burada kendi kişisel notlarımı paylaşıyorum. Notlarımı aşağıdaki klasörde bulabilirsiniz:
