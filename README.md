@@ -1,6 +1,3 @@
-# Proje Başlığı
-
-Bu proje, GitHub üzerinde .md tabanlı metinler yayınlamak için oluşturulmuştur.
 
 ## Amaç
 
