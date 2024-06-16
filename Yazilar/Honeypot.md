@@ -175,6 +175,7 @@ root
 2024-06-16T15:46:36+0000 [HoneyPotSSHTransport,1,192.168.89.128] Command found: ls
 ```
 ### Tanner
+Website için bir nikto taraması gerçekleştiriyoruz.
 ```python
 ┌──(kali㉿kali)-[~]
 └─$ nikto --host 192.168.89.129 --port 8091
