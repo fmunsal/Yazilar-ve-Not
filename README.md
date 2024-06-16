@@ -13,7 +13,7 @@ Bu repo, kişisel notlarımı ve yazılarımı içermektedir. Aşağıda yer ala
 
 Bu repo içinde çeşitli konularda yazılar bulunmaktadır. İlgili yazılara şu bağlantılardan erişebilirsiniz:
 
-- [Honeypot-Avlarken Avlanmak](yazilar/honeypot.md): Honeypot teknolojisinin temel prensipleri ve kullanım alanları hakkında bilgi edinin.
+- [Honeypot-Avlarken Avlanmak](Yazilar/Honeypot.md): Honeypot teknolojisinin temel prensipleri ve kullanım alanları hakkında bilgi edinin.
 
 ## Notlar
 
