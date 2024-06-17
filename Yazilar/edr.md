@@ -33,7 +33,7 @@ EDR’ın bu özellikli çalışma yapısı aslında NIST’ın hayat döngüsü
 
 Bu başlıklar “Öngörü (Predict), Önleme (Prevent), Tespit (Detect), Cevap (Response)” olarak sınıflandırılabilir.
 
-![EDR çalışma prensibinin NIST yaşam döngüsü şeması](./img/img2.png)
+----![EDR çalışma prensibinin NIST yaşam döngüsü şeması](./img/img2.png)
 
 
 ### 1. Predict (Öngörü):
